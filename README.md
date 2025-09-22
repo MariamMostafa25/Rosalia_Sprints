@@ -23,7 +23,7 @@ Rosalia هو تطبيق تسوق للزهور 🌺 يتيح للمستخدمين
 ## 🛠️ Setup Instructions
 1. انسخ المشروع من GitHub:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rosalia_sprints.git
+   git clone https://github.com/MariamMostafa25/Rosalia_Sprints.git
 
 ## 2 .افتح المشروع في VS Code أو Android Studio.
 
@@ -61,4 +61,5 @@ flutter run
 
 Mariam Mostafa AbdelNasser
 
+GitHub:https://github.com/MariamMostafa25
 GitHub:
